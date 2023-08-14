@@ -1,7 +1,7 @@
 ![logo](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 ## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm A.Thilakesh Raj
 <h3 align="center">A fervent developer from India</h3>
-<br>
+
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilake&label=Profile%20views&color=0e75b6&style=flat" alt="thilake" /> </p>
 
@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Be constant learner to get your next version**
 
-<h3 align="left">Connect with me:</h3>
+##Connect with Me 🤝🏻
 <p align="left">
 <a href="https://dev.to/https://dev.to/thilake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/thilake" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thilakesh-raj-2020as/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thilakesh-raj-2020as/" height="30" width="40" /></a>
