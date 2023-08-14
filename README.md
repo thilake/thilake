@@ -2,7 +2,7 @@
 ## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm A.Thilakesh Raj
 <h3 align="center">A fervent developer from India</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif"></img>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilake&label=Profile%20views&color=0e75b6&style=flat" alt="thilake" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thilake" align="right" alt="thilake" /></a> </p>
