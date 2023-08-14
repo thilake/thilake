@@ -1,4 +1,4 @@
-![logo](https://github.com/thilake/thilake/blob/main/image10.jpg)
+![logo](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)
 <h1 align="center">Hi 👋, I'm A.Thilakesh Raj</h1>
 <h3 align="center">A fervent developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"></img>
