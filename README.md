@@ -30,12 +30,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/thilakeshtf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/thilakeshtf" /></a></p><br><br>
 
-
-[![@thilake's Holopin board](https://holopin.me/ashwin515)](https://holopin.io/@ashwin515)
-
-[![thilake's GitHub | Stats](https://stats.quine.sh/thilake/github?theme=dark)](https://quine.sh) 
-[![thilake's GitHub | Languages Over Time](https://stats.quine.sh/thilake/languages-over-time?theme=dark)](https://quine.sh)
-[![thilake's GitHub | Topics Over Time](https://stats.quine.sh/thilake/topics-over-time?theme=dark)](https://quine.sh)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilake&show_icons=true&locale=en&layout=compact" alt="thilake" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thilake&show_icons=true&locale=en" alt="thilake" /></p>
