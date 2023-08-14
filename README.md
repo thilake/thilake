@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **Be constant learner to get your next version**
 
-##Connect with Me 🤝🏻
+<h3 align="left">Connect with Me</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/thilake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/thilake" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thilakesh-raj-2020as/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thilakesh-raj-2020as/" height="30" width="40" /></a>
