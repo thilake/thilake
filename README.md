@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilake&label=Profile%20views&color=0e75b6&style=flat" alt="thilake" /> </p>
 <h3 align="left">✨Fun fact:</h3> Continuously learning to become a better version of myself 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/thilakeshtf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/thilakeshtf" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/thilakeshtf"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="[https://www.buymeacoffee.com/thilakeshtf](https://buymeacoffee.com/thilakeshtf)" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thilake&show_icons=true&locale=en&layout=compact" alt="thilake" /></p>
 
