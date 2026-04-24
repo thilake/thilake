@@ -1,4 +1,4 @@
-## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm A.Thilakesh Raj
+## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">I'm A. Thilakesh Raj
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif"></img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thilake&label=Profile%20views&color=0e75b6&style=flat" alt="thilake" /> </p>
